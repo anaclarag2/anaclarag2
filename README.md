@@ -22,7 +22,7 @@ Olá! Sou estudante de programação e tecnologia, interessado em aprender, dese
 - Construir meu portfólio como desenvolvedor.
 
 ## 📫 Contato
-- GitHub: [Meu perfil](https://github.com/SEU-USUARIO)
+- Gmail: anaclaraag272@gmail.com 
 
 ---
 
