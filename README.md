@@ -1,44 +1,13 @@
-# 👋 Olá, seja bem-vindo(a) ao meu GitHub!
+# Olá! Seja bem-vindo(a) ao meu GitHub.
 
-## 💻 Sobre mim
-Olá! Sou estudante de programação e tecnologia, interessado em aprender, desenvolver projetos e aprimorar minhas habilidades na área de desenvolvimento de software.
+Sou estudante do curso Técnico em Desenvolvimento de Sistemas e estou iniciando minha trajetória na área de tecnologia e programação.
 
-## 🚀 Tecnologias e ferramentas
-- Python
-- Portugol
-- Lógica de programação
-- Git e GitHub
+Atualmente, estou desenvolvendo meus conhecimentos em lógica de programação, algoritmos e resolução de problemas. Tenho utilizado o Portugol e Python nos meus estudos para compreender melhor a lógica por trás dos códigos e aprender a construir soluções passo a passo.
 
-## 📚 Atualmente estudando
-- Algoritmos e estruturas de repetição
-- Vetores e matrizes
-- Desenvolvimento de programas em Python
-- Fundamentos da programação
+Este GitHub faz parte do meu processo de aprendizado. Aqui, compartilho exercícios, atividades e projetos desenvolvidos durante minha formação, registrando minha evolução e colocando em prática o que venho aprendendo.
 
-## 🎯 Objetivos
-- Aprimorar meus conhecimentos em programação.
-- Desenvolver projetos práticos.
-- Aprender novas linguagens e tecnologias.
-- Construir meu portfólio como desenvolvedor.
+Ainda estou no começo dessa jornada, mas pretendo continuar explorando novas tecnologias, aprendendo linguagens de programação e desenvolvendo projetos cada vez mais completos.
 
-## 📫 Contato
-- Gmail: anaclaraag272@gmail.com 
-
----
-
-⭐ *"Todo grande desenvolvedor já foi um iniciante."*
-
-<!--
-**anaclarag2/anaclarag2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Curso:** Técnico em Desenvolvimento de Sistemas  
+**Instituição:** EEEP Maria Carmem Vieira Moreira  
+**Área de interesse:** Desenvolvimento de Software e Tecnologia.
